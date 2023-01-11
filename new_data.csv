@@ -1,0 +1,51 @@
+year,country,region,economy,family,health,freedom,corruption,generosity
+2009,Vietnam,Southeast Asia,8.345,0.815,66.34,0.834,0.838,-0.058
+2010,Vietnam,Southeast Asia,8.397,0.787,66.5,0.831,0.743,-0.002
+2011,Vietnam,Southeast Asia,8.447,0.898,66.66,0.818,0.742,0.108
+2012,Vietnam,Southeast Asia,8.488,0.775,66.82,0.856,0.815,-0.107
+2013,Vietnam,Southeast Asia,8.53,0.759,66.98,0.92,0.771,-0.024
+2014,Vietnam,Southeast Asia,8.578,0.792,67.14,,,0.003
+2015,Vietnam,Southeast Asia,8.632,0.849,67.3,,,0.089
+2016,Vietnam,Southeast Asia,8.682,0.876,67.5,0.894,0.799,-0.087
+2017,Vietnam,Southeast Asia,8.738,,67.7,,,
+2018,Vietnam,Southeast Asia,8.796,0.832,67.9,0.909,0.808,-0.038
+2019,Vietnam,Southeast Asia,8.851,0.848,68.1,0.952,0.788,-0.122
+2007,Yemen,Middle East and North Africa,8.363,0.825,53.4,0.673,,-0.006
+2009,Yemen,Middle East and North Africa,8.38,0.756,54.0,0.644,0.832,-0.066
+2010,Yemen,Middle East and North Africa,8.426,0.727,54.3,0.659,0.853,-0.109
+2011,Yemen,Middle East and North Africa,8.263,0.663,54.3,0.638,0.754,-0.174
+2012,Yemen,Middle East and North Africa,8.259,0.682,54.3,0.706,0.793,-0.179
+2013,Yemen,Middle East and North Africa,8.279,0.694,54.3,0.543,0.885,-0.188
+2014,Yemen,Middle East and North Africa,8.25,0.638,54.3,0.664,0.885,-0.173
+2015,Yemen,Middle East and North Africa,8.042,0.669,54.3,0.61,0.829,-0.158
+2016,Yemen,Middle East and North Africa,7.871,0.775,55.1,0.533,,-0.168
+2017,Yemen,Middle East and North Africa,7.785,0.79,55.9,0.595,,-0.167
+2018,Yemen,Middle East and North Africa,7.734,0.789,56.7,0.553,0.793,-0.148
+2019,Yemen,Middle East and North Africa,,0.87,57.5,0.651,0.798,
+2006,Zambia,Sub-Saharan Africa,7.883,0.798,44.26,0.721,0.785,-0.016
+2007,Zambia,Sub-Saharan Africa,7.937,0.688,45.72,0.682,0.948,-0.077
+2008,Zambia,Sub-Saharan Africa,7.984,0.624,47.18,0.717,0.89,0.045
+2009,Zambia,Sub-Saharan Africa,8.044,0.782,48.64,0.696,0.917,-0.107
+2011,Zambia,Sub-Saharan Africa,8.137,0.864,50.84,0.663,0.882,-0.008
+2012,Zambia,Sub-Saharan Africa,8.179,0.78,51.58,0.788,0.806,-0.003
+2013,Zambia,Sub-Saharan Africa,8.197,0.761,52.32,0.77,0.732,-0.115
+2014,Zambia,Sub-Saharan Africa,8.212,0.706,53.06,0.812,0.809,-0.022
+2015,Zambia,Sub-Saharan Africa,8.21,0.691,53.8,0.759,0.871,-0.05
+2016,Zambia,Sub-Saharan Africa,8.217,0.767,54.3,0.812,0.771,0.112
+2017,Zambia,Sub-Saharan Africa,8.221,0.744,54.8,0.823,0.74,0.13
+2018,Zambia,Sub-Saharan Africa,8.229,0.718,55.3,0.791,0.811,0.038
+2019,Zambia,Sub-Saharan Africa,8.224,0.638,55.8,0.811,0.832,0.066
+2006,Zimbabwe,Sub-Saharan Africa,7.546,0.822,41.58,0.431,0.905,-0.07
+2007,Zimbabwe,Sub-Saharan Africa,7.501,0.828,42.86,0.456,0.946,-0.076
+2008,Zimbabwe,Sub-Saharan Africa,7.297,0.843,44.14,0.344,0.964,-0.083
+2009,Zimbabwe,Sub-Saharan Africa,7.398,0.806,45.42,0.411,0.931,-0.071
+2010,Zimbabwe,Sub-Saharan Africa,7.564,0.857,46.7,0.665,0.828,-0.086
+2011,Zimbabwe,Sub-Saharan Africa,7.682,0.865,48.12,0.633,0.83,-0.082
+2012,Zimbabwe,Sub-Saharan Africa,7.819,0.896,49.54,0.47,0.859,-0.096
+2013,Zimbabwe,Sub-Saharan Africa,7.821,0.799,50.96,0.576,0.831,-0.098
+2014,Zimbabwe,Sub-Saharan Africa,7.827,0.766,52.38,0.642,0.82,-0.068
+2015,Zimbabwe,Sub-Saharan Africa,7.828,0.736,53.8,0.667,0.81,-0.117
+2016,Zimbabwe,Sub-Saharan Africa,7.82,0.768,54.4,0.733,0.724,-0.088
+2017,Zimbabwe,Sub-Saharan Africa,7.851,0.754,55.0,0.753,0.751,-0.092
+2018,Zimbabwe,Sub-Saharan Africa,7.897,0.775,55.6,0.763,0.844,-0.063
+2019,Zimbabwe,Sub-Saharan Africa,7.85,0.759,56.2,0.632,0.831,-0.062
